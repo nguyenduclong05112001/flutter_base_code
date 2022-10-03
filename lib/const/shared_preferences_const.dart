@@ -1,0 +1,4 @@
+class SharedPreferencesConst {
+  static const String KEY_SHARED_PREFERENCE_CHECK_FIRST_TIME_IN_APP =
+      "KEY_SHARED_PREFERENCE_CHECK_FIRST_TIME_IN_APP";
+}
